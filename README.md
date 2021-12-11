@@ -1,3 +1,3 @@
 # Shiba Inu
 
-work with eric
+## Shiba Inu Coin was founded by Ryoshi (a pseudoname) in 2020. Considered a meme (that which is imitated) coin currency, the coin was not taken seriously during its inital launch. The coin was designed to be readily availiable in volume and the author issued a quadtrillion coins. In contrast, Bitcoin has a set supply of 21 million coins, while Dodgecoin has an infinite supply. The coin operates as a layer 2 protocol and is build on the Ethereum network. The project would surpise the most ardent critics when it would vault into the top 15 of the cryptocurrencies with a market valuation in excess of 35 billion dollars
